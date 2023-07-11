@@ -1,0 +1,2 @@
+[submodule "thingy"]
+	url = https://github.com/keithmannock/thingy.git
